@@ -1,6 +1,13 @@
 // Selection Sort
 // Time Complexity O(n2) // avg, worst, best
 // Space Complexity O(1)
+
+
+// selection sort
+// two loop, Outer loop -> for loop 0 to n pick  each element and pick it as minInd 
+// inner loop j = i+1 to n check the minElement comparing with minInd element and set new minElement index
+// swap the i element with minIndex element
+
 #include <iostream>
 #include <algorithm>
 

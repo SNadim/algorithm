@@ -2,6 +2,12 @@
 // Time Complexity O(n2) // avg, worst
 // Time Complexity O(n) // best
 // Space Complexity O(1)
+
+// bubble sort
+// two for loop outer loop -> i = 0 to n-1
+// inner loop -> j = 0 to n - i - 1 and swap
+// Larger element to shifting to the right
+
 #include <iostream>
 #include <algorithm>
 

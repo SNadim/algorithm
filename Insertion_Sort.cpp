@@ -2,6 +2,11 @@
 // Time Complexity O(n2) // avg, worst
 // Time Complexity O(n) // best
 // Space Complexity O(1)
+
+// insertion sort
+// outer for loop i=0 to n
+// put the element into the left sorted array in right position using while loop
+
 #include <iostream>
 #include <algorithm>
 
